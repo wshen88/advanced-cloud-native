@@ -164,4 +164,8 @@ buildNumber.properties
 # Exclude maven wrapper
 !/.mvn/wrapper/maven-wrapper.jar
 
+# Exclude generated code 
+*/META-INF/*
+*/generated/*
+
 # End of https://www.gitignore.io/api/java,eclipse,maven

@@ -1,0 +1,8 @@
+cart.service.host: cart-service.coolstore-cart.svc
+cart.service.port: 8080
+
+catalog.service.host: catalog-service.coolstore-catalog.svc
+catalog.service.port: 8080
+
+inventory.service.host: inventory-service.coolstore-inventory.svc
+inventory.service.port: 8080
